@@ -15,6 +15,12 @@ from dataclasses import dataclass
 
 import os
 
+LABELS  = [
+    'GREETING', 'DATE', 'WEATHER', 'REPEAT', 'YES',
+    'CANCEL', 'FLIP_COIN', 'TRANSLATE', 'TIMER', 'DEFINITION',
+    'MEANING_OF_LIFE', 'WHAT_CAN_I_ASK_YOU', 'ROLL_DICE', 'MAKE_CALL', 'ALARM'
+]
+
 # Load model from HuggingFace Hub
 CLASS_NUM = 15
 MODEL_NAME = 'sentence-transformers/paraphrase-albert-small-v2'
@@ -105,12 +111,14 @@ def train(model, data_loader, conf=Config(), device='cpu'):
                       f"Loss {round(loss.item(), 6)}")
             count += 1
 
+def run_model(model, sentences):
+    labels = []
+    Y = model(sentences).detach().numpy()
+    for label_tk in Y:
+        labels.append(LABELS[label_tk.argmax()])
+    return labels
+
 if __name__ == '__main__':
-    LABELS  = [
-        'GREETING', 'DATE', 'WEATHER', 'REPEAT', 'YES',
-        'CANCEL', 'FLIP_COIN', 'TRANSLATE', 'TIMER', 'DEFINITION',
-        'MEANING_OF_LIFE', 'WHAT_CAN_I_ASK_YOU', 'ROLL_DICE', 'MAKE_CALL', 'ALARM'
-    ]
     # Sentences we want sentence embeddings for
     sentences = ['What time is it?', 'Give me the time']
 
