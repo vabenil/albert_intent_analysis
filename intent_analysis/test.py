@@ -1,7 +1,7 @@
 import json
 import process_data
-from model import Net, run_model
-from model2 import Net as Net2
+from .model import Net, run_model
+from .model2 import Net as Net2
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
 

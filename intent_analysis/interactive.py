@@ -1,4 +1,4 @@
-from model2 import Net, run_model
+from .model2 import Net, run_model
 import torch
 
 

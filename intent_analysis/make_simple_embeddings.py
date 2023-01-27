@@ -1,8 +1,8 @@
 import json
-import pickle;
-import process_data
+import pickle
 import numpy as np
-from model import Net
+
+from .model import Net
 
 
 if __name__ == '__main__':

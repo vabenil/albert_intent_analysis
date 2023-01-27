@@ -1,19 +1,18 @@
-# Use AdamW optimizer
+import os
 from transformers import AutoTokenizer, AutoModel
 import torch
 
 import torch.nn as nn
 import torch.nn.functional as F
 
+# Use AdamW optimizer
 from torch.optim import AdamW
 
 from torch.utils.data import Dataset, DataLoader
 
 from sklearn.metrics.pairwise import cosine_similarity
-from data_loader import create_data_loader
 from dataclasses import dataclass
 
-import os
 
 LABELS  = [
     'GREETING', 'DATE', 'WEATHER', 'REPEAT', 'YES',

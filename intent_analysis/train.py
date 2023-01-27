@@ -1,7 +1,7 @@
 import torch
-from model2 import Net, train, tokenizer
-from data_loader import create_data_loader, IntentRecognitionDataset
-from process_data import json_to_pandas
+from .model2 import Net, train, tokenizer
+from .data_loader import create_data_loader, IntentRecognitionDataset
+from .process_data import json_to_pandas
 import json
 
 
