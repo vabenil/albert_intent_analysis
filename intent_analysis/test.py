@@ -1,10 +1,9 @@
 import json
 import process_data
-from model import Net
+from model import Net, run_model
 from model2 import Net as Net2
 from sklearn.metrics.pairwise import cosine_similarity
 import numpy as np
-from simple import run_model
 
 import torch
 
@@ -33,7 +32,7 @@ def test(fnc):
 
 if __name__ == '__main__':
     test_data = None
-    with open('test_data.json', 'r') as f:
+    with open('datasets/test_data.json', 'r') as f:
         test_data = json.load(f)
 
 
