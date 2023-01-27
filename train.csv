@@ -1,0 +1,1501 @@
+intent,prompt
+ALARM,wake me up at noon tomorrow
+ALARM,set my alarm for getting up
+ALARM,make sure my alarm is set for three thirty in the morning
+ALARM,please set an alarm for mid day
+ALARM,have an alarm set for three in the morning
+ALARM,you need to set alarm for me
+ALARM,i need you to set alarm for me
+ALARM,set the alarm for me
+ALARM,can you set alarm for me
+ALARM,please set alarm for me
+ALARM,make a new alarm for 6 in the morning
+ALARM,make a new alarm
+ALARM,create an alarm
+ALARM,i need an alarm for 6am
+ALARM,can you alert me at 6 in the morning
+ALARM,i'd like a new alarm set for 6am
+ALARM,"set an alarm for 6am, please"
+ALARM,initiate a new alarm please
+ALARM,set up an alarm
+ALARM,make up a new alarm
+ALARM,i want to make an alarm
+ALARM,i would like an alarm set
+ALARM,schedule an alarm
+ALARM,i need an alarm set
+ALARM,i need alarms set for 6am and 615am
+ALARM,i need an alarm to go off tomorrow at five fifteen
+ALARM,can you set an alarm for seven fifteen for tomorrow
+ALARM,set me an alarm for 4pm and another for 5pm
+ALARM,set one alarm for 215pm and another for 7pm
+ALARM,create an alarm for 9 am and another one for 11 am
+ALARM,set the alarm to go off at 9 tomorrow
+ALARM,make an alarm for tomorrow at twilight
+ALARM,set up two alarms one for 10am and another for 2pm
+ALARM,please set up an alarm to go off tomorrow at daybreak
+ALARM,could you set one alarm for 8am saturday and one for 9am sunday
+ALARM,can i turn on the alarm now
+ALARM,how do i set the alarm
+ALARM,please turn on the alarm
+ALARM,set my alarm for 6am tomorrow
+ALARM,set alarm for 6am
+ALARM,can you play an alarm at 5pm
+ALARM,create alarm 6am
+ALARM,set alarm for 5pm
+ALARM,make an alarm 6am
+ALARM,create an alarm for 6am
+ALARM,put in an alarm for 5pm
+ALARM,i want an alarm at 5pm
+ALARM,set my alarm for 5pm
+ALARM,set an alarm
+ALARM,create alarm
+ALARM,set alarm
+ALARM,i need an alarm to wake me up at 8 tomorrow morning
+ALARM,i need you to set an alarm for 8am tomorrow
+ALARM,please set an alarm for 5 am
+ALARM,set an alarm for 9pm please
+ALARM,i need an alarm set for 6 in the morning
+ALARM,i need an alarm set for 10:00 and another set for 3:00
+ALARM,set an alarm for me for 10:00 and another one set for 4:00
+ALARM,would you set my alarm for 10:00 and another for 3:00
+ALARM,provide assistance by setting an alarm at 8:00 and another for 11:00
+ALARM,assist me by setting my alarm for 9:00 and another for 11:00
+ALARM,tomorrow i need an alarm at 7 tomorrow
+ALARM,"at 9 tomorrow, set off the alarm"
+ALARM,tomorrow i would like an alarm for 9 tomorrow
+ALARM,tomorrow i need the alarm to go off at 5
+ALARM,sound the alarm at 6 am tomorrow
+ALARM,set reminder for 2 pm
+ALARM,wake me up at 6 am
+ALARM,ring my phone at 12 pm
+ALARM,set alarm for 5 am
+ALARM,please set an alarm for 2 pm for me
+ALARM,set an alarm for 5 pm
+ALARM,can you make an alarm for 7 am
+ALARM,set a 5 am alarm please
+ALARM,i need an alarm at 8 pm
+ALARM,set an alarm to start work and another to stop
+ALARM,set an alarm to go to sleep and another to wake up
+ALARM,please set a reminder for me
+ALARM,set an alarm to work out and another to go home
+ALARM,create an alarm for me
+ALARM,set an alarm for lunch and another for dinner
+ALARM,make an alarm for me
+ALARM,set an alarm for my meeting and another for my phone call
+ALARM,i want an alarm set up
+ALARM,i need an alarm set please
+ALARM,have an alarm wake me at 10:30 am
+ALARM,i want an alarm to go off at 9 am
+ALARM,i need an alarm set for 9 am and another for 11 am
+ALARM,i need an alarm set for 5:30 pm
+ALARM,i need you to schedule an alarm
+ALARM,please create an alarm for 5:45 am and an alarm for 6:15 am
+ALARM,would you set up an alarm for me
+ALARM,please create one alarm for 330 pm and one for 8 pm
+ALARM,please create a new alarm for me
+ALARM,i need an alarm to go off at 6 am
+ALARM,"please set two alarms, one at 12 pm and the next at 1 pm"
+ALARM,please create an alarm for 12 noon
+ALARM,i need one alarm to go off at 6:30 am and a second alarm set for 8:00 am
+ALARM,help me get up at eight thirty in the morning tomorrow
+ALARM,i want to be woken up at 9 tomorrow
+CANCEL,"please cancel what you are doing, i've changed my mind"
+CANCEL,"never mind, cancel that"
+CANCEL,"stop working on it, i need something else"
+CANCEL,"cancel my last request, i know the answer"
+CANCEL,"forget it, i do not need it anymore"
+CANCEL,pause
+CANCEL,cancel that last thing
+CANCEL,silence
+CANCEL,quit
+CANCEL,mute
+CANCEL,stop
+CANCEL,stop and go back
+CANCEL,ai stop talking
+CANCEL,quiet now
+CANCEL,shhhh
+CANCEL,how do i make you stop talking
+CANCEL,can you be quiet please
+CANCEL,please stop doing what i asked
+CANCEL,please be quiet
+CANCEL,i would like you to stop what you were doing
+CANCEL,please cancel that last command
+CANCEL,can you cancel what you were doing
+CANCEL,can you cancel
+CANCEL,shut up!
+CANCEL,i need you to stop talking now
+CANCEL,i want you to quit the action
+CANCEL,discontinue please
+CANCEL,i don't want you to speak any more for now
+CANCEL,discontinue your current task
+CANCEL,abort please
+CANCEL,quit the current action please
+CANCEL,forget my previous command
+CANCEL,abort the current action
+CANCEL,actually forget that i don't need it
+CANCEL,quit what you are doing
+CANCEL,"sorry, you can actually stop that"
+CANCEL,"i actually don't want this anymore, please abort"
+CANCEL,please cancel your present task
+CANCEL,"that's enough, don't say anymore please"
+CANCEL,i want you to stop your present action
+CANCEL,stop talking please
+CANCEL,"what you are doing is not actually helpful, please cancel the action"
+CANCEL,please stop
+CANCEL,cancel action
+CANCEL,please cancel the input
+CANCEL,"ai, stop talking"
+CANCEL,"ai, shut up"
+CANCEL,"ai, stop!"
+CANCEL,please be quiet now
+CANCEL,terminate
+CANCEL,negate last command
+CANCEL,halt
+CANCEL,would you stop talking please
+CANCEL,please abandon the current job
+CANCEL,please abort the current task
+CANCEL,terminate current process
+CANCEL,i want you to cancel the current action
+CANCEL,abort
+CANCEL,please stop doing that
+CANCEL,abort running program
+CANCEL,don't continue with what you're doing
+CANCEL,oh shut the hell up would you
+CANCEL,destroy process
+CANCEL,please cancel that last task
+CANCEL,please refrain from carrying out the current task
+CANCEL,"ai, cancel that last request"
+CANCEL,do not complete the task that i gave you
+CANCEL,"ai, please stop your current task"
+CANCEL,"actually, cancel that command"
+CANCEL,"nevermind, cancel that"
+CANCEL,"actually, cancel that"
+CANCEL,forget it
+CANCEL,cancel that
+CANCEL,don't do this process
+CANCEL,undo
+CANCEL,cancel current process
+CANCEL,undo this process
+CANCEL,just shut up
+CANCEL,stop that
+CANCEL,cancel that input
+CANCEL,"never mind, don't do that"
+CANCEL,never mind
+CANCEL,stop doing that
+CANCEL,halt that immediately
+CANCEL,stop the process happening now
+CANCEL,"stop, i changed my mind"
+CANCEL,cancel that last command
+CANCEL,oops cancel that
+CANCEL,can you stop
+CANCEL,could you stop talking for a second
+CANCEL,could you stop please
+CANCEL,can you switch off
+CANCEL,can you stop speaking
+CANCEL,can you please cancel
+CANCEL,can you end the task
+CANCEL,scratch
+CANCEL,refrain from talking
+CANCEL,halt the process
+CANCEL,no more talking
+CANCEL,i advise you to quit talking
+DATE,i would like to know what today's date is
+DATE,i need information on today's date
+DATE,tell me what date it is please
+DATE,tell me what day today is
+DATE,can you tell me tomorrow's date
+DATE,what is the date for tomorrow
+DATE,i would like to know tomorrow's date
+DATE,what is the month and day tomorrow
+DATE,"in six days, what will it be"
+DATE,what day will it be in fourteen days
+DATE,which day will it be five days from now
+DATE,"after another eight days, what day will it be"
+DATE,what day is it gonna be in twenty-one days
+DATE,current date
+DATE,what day of the month is it today
+DATE,what date is it
+DATE,can you tell me the date today
+DATE,please share today's date
+DATE,what date is it today
+DATE,what day is it
+DATE,what is the day
+DATE,tell me what day it is
+DATE,"is it monday, tuesday, wednesday, thursday, friday, saturday, or sunday"
+DATE,what's the day of the week
+DATE,"what's the date tomorrow, please"
+DATE,what is the date tomorrow
+DATE,"what is the date tomorrow, please"
+DATE,"what is tomorrow's date, please"
+DATE,can you tell me what today's date is
+DATE,"what is today's month, day and year"
+DATE,today's date is what
+DATE,please tell me today's date
+DATE,could you tell me today's date
+DATE,i need to know today's date please
+DATE,would you please tell me today's date
+DATE,what is the date today
+DATE,today's date is what exactly
+DATE,please tell me what date it is today
+DATE,can you tell me today's date
+DATE,i need to know today's date
+DATE,what would tomorrow's date be
+DATE,tell me the date today
+DATE,i'd like to know the date tomorrow
+DATE,"in 2 days, what date will it be"
+DATE,what will be the date tomorrow
+DATE,what will the date be in 10 days
+DATE,"15 days from today, what will the date be"
+DATE,what's the date tomorrow
+DATE,i need to know what date it is tomorrow
+DATE,"in 100 days from now, what will be the date"
+DATE,what will be the date in 100 days from now
+DATE,tell me what the date is tomorrow
+DATE,give me tomorrow's date please
+DATE,what day is it today
+DATE,do you have the date
+DATE,what is the date of today
+DATE,please give me today's date
+DATE,what is today's date
+DATE,what date is today
+DATE,what is today
+DATE,today is what date
+DATE,what's the day today
+DATE,what year is it
+DATE,what's the date 400 days from now
+DATE,can you tell me the current date
+DATE,tell me the date 650 days from now
+DATE,"what's the current date, month and year"
+DATE,what will the date be 100 days from now
+DATE,what day of the week is it
+DATE,what day will it be 373 days from now
+DATE,i need to know the date in 256 days
+DATE,what is the date
+DATE,give me the date today
+DATE,i need to know what the date is today
+DATE,i'd like to know what the date is
+DATE,what's today's date
+DATE,tell me what the date is today
+DATE,show me a calendar
+DATE,show me the date
+DATE,i need the full date for today
+DATE,what day of the month is it
+DATE,can you remind me of the date
+DATE,"tomorrow, what will the date be"
+DATE,tell me what the date is for tomorrow
+DATE,tell me what the date will be tomorrow
+DATE,what is tomorrow's date
+DATE,what's tomorrow on the calender
+DATE,what date is tomorrow
+DATE,calender says tomorrow is
+DATE,tell me tomorrow's date
+DATE,the date tomorrow is what
+DATE,when will it be in 10 days
+DATE,what day is it tomorrow
+DATE,what's the current date
+DATE,what is the full date after today
+DATE,what's the date 32 days from now
+DATE,can you tell me the date
+DATE,what will the date be in 64 days
+DATE,can you tell me what the next day is
+DATE,what's today
+DEFINITION,what is the meaning of realism
+DEFINITION,what is regard mean
+DEFINITION,what is the meaning of interorganizational
+DEFINITION,what is it is all relative mean
+DEFINITION,what is intercontinental mean
+DEFINITION,what is the meaning of supercede
+DEFINITION,what is let it be mean
+DEFINITION,what is the definition of incomprehensible
+DEFINITION,what is the meaning of stupendous
+DEFINITION,what is the definition of intelligent
+DEFINITION,what is good riddance mean
+DEFINITION,what is break a leg mean
+DEFINITION,what is the meaning of hyperactive
+DEFINITION,what is the definition of valor
+DEFINITION,what is stupedous meant
+DEFINITION,find the meaning of qat
+DEFINITION,what the heck is qat
+DEFINITION,define qat for me
+DEFINITION,read me a definition for qat
+DEFINITION,look up qat please
+DEFINITION,what might the meaning of altruism be
+DEFINITION,exactly what does altruism mean
+DEFINITION,what does altruism mean
+DEFINITION,what is the definition of altruism
+DEFINITION,what is the meaning of altruism
+DEFINITION,affiliate's definition is what
+DEFINITION,the definition of affiliate is
+DEFINITION,what's the meaning of affiliate
+DEFINITION,what's affiliate definition
+DEFINITION,definition of affiliate is what
+DEFINITION,whats the definition of poor
+DEFINITION,"describe the meaning of ""dog"
+DEFINITION,"what does ""money"" mean"
+DEFINITION,tell me what the word die means
+DEFINITION,what is the definition of succumb
+DEFINITION,what is the meaning of telepathy
+DEFINITION,what does tertiary mean
+DEFINITION,tell me the definition of the word redemption
+DEFINITION,what is the meaning of the word lux
+DEFINITION,what is an ataraxy
+DEFINITION,what does the word ataraxy mean
+DEFINITION,what does ataraxy mean
+DEFINITION,use the word ataraxy in a sentence
+DEFINITION,define ataraxy
+DEFINITION,what does discretionary mean
+DEFINITION,define discretionary
+DEFINITION,i want to know the definition of discretionary
+DEFINITION,can you give the definition of deiscretionary
+DEFINITION,let's hear the definition of iridium
+DEFINITION,what's the definition of analogy
+DEFINITION,can you tell me the definition of sucrose
+DEFINITION,definition of anachronism
+DEFINITION,what's the definition of patriarchy
+DEFINITION,can you tell me the definition of yttrbium
+DEFINITION,please share the definition of episcopalian
+DEFINITION,what does saffron mean
+DEFINITION,define sonogram
+DEFINITION,define thoroughbred
+DEFINITION,what's the meaning of a fortnight
+DEFINITION,what is an anachronism
+DEFINITION,what's the meaning of emulsify
+DEFINITION,tell me what cyst means
+DEFINITION,what is the definition of flange
+DEFINITION,tell me what flange means
+DEFINITION,define flange
+DEFINITION,flange means what
+DEFINITION,what is the meaning of flange
+DEFINITION,"what does ""rescind"" mean"
+DEFINITION,"what is the meaning of word ""rescind"
+DEFINITION,"is ""rescind"" a word of positive connotation"
+DEFINITION,"where i can use word ""rescind"
+DEFINITION,read me the definition of ajar
+DEFINITION,what does ajar mean
+DEFINITION,can you show me the dictionary definition of ajar
+DEFINITION,tell me what monstrosity means
+DEFINITION,give me the definition of ajar
+DEFINITION,what is the definition of didactic
+DEFINITION,i need to know what adumbrate means can you look it up for me now
+DEFINITION,i want to know what the word discomfit means
+DEFINITION,find what the word diaphanous mean please
+DEFINITION,do you know what calumny means  please look it up for me
+DEFINITION,find out what the word abrogate means for me
+DEFINITION,tell me what edict means
+DEFINITION,what does the word abjure mean
+DEFINITION,can you tell me what dirge means
+DEFINITION,tell me what the word arboreal means
+DEFINITION,whats the definition of transmute
+DEFINITION,what is the meaning of the word slander
+DEFINITION,what is meant by defense
+DEFINITION,tell me what the word bounty means
+DEFINITION,what does deceive mean
+DEFINITION,define zesty
+DEFINITION,look up zesty in dictionary
+DEFINITION,definition of zesty
+DEFINITION,what is the definition of zesty
+DEFINITION,what does zesty mean
+DEFINITION,tell me what alternative means
+DEFINITION,what does alternative mean
+DEFINITION,give me the meaning of alternative
+DEFINITION,tell me the meaning of alternative
+FLIP_COIN,please flip a coin and tell me what side it lands on
+FLIP_COIN,will you flip a coin so i can make a choice
+FLIP_COIN,flip a two sided coin and tell me what it lands on
+FLIP_COIN,i need you to flip a coin so i can decide
+FLIP_COIN,begin the coin flip now
+FLIP_COIN,i want you to help me make a decision by flipping a coin
+FLIP_COIN,"please flip a coin, and i call heads"
+FLIP_COIN,"flip a coin and let me know if it lands on heads or tails, please"
+FLIP_COIN,i want you to flip a fair sided coin
+FLIP_COIN,are you able to flip a two sided coin
+FLIP_COIN,i need you to flip a coin so i can make a choice
+FLIP_COIN,"can you please flip a coin, i call tails"
+FLIP_COIN,"flip a coin, i call tails"
+FLIP_COIN,heads or tails i choose tails
+FLIP_COIN,please tell me if a coin lands on tails
+FLIP_COIN,please tell me if a coin flip lands on heads or tails
+FLIP_COIN,flip a coin heads or tails
+FLIP_COIN,please flip a coin i select tails
+FLIP_COIN,will you flip a coin
+FLIP_COIN,can you get a coin and flip it
+FLIP_COIN,would you flip a coin
+FLIP_COIN,will you get a coin and flip it
+FLIP_COIN,"flip a coin for me, with you calling heads"
+FLIP_COIN,i'd like you to throw a virtual coin for me
+FLIP_COIN,can i get a random heads or tails
+FLIP_COIN,can you do a coin flip
+FLIP_COIN,i want a coin flip and i'll take tails
+FLIP_COIN,i call tails for a coin flip you need to do right now
+FLIP_COIN,do a virtual coin flip and tell me if i win as tails
+FLIP_COIN,randomly pick between heads or tails and tell me if tails wins
+FLIP_COIN,toss a coin and tell me what it lands on
+FLIP_COIN,choose heads or tails and tell me what you came up with
+FLIP_COIN,flip a fair coin i win if it's tails
+FLIP_COIN,flip a coin for me i call tails
+FLIP_COIN,flip me a coin i'm calling tails
+FLIP_COIN,take a coin and flip it and i call tails
+FLIP_COIN,"hey, flip me a coin i call tails"
+FLIP_COIN,flip a coin one time
+FLIP_COIN,flip that dime
+FLIP_COIN,i need to do a fair coin flip
+FLIP_COIN,flip that coin once; it must be tails
+FLIP_COIN,flip a quarter
+FLIP_COIN,do one coin flip; it will be tails
+FLIP_COIN,flip a coin; i say tails
+FLIP_COIN,how about a coin flip
+FLIP_COIN,let's decide with a coin flip
+FLIP_COIN,can you flip a coin once
+FLIP_COIN,"if you flip a coin, i call tails"
+FLIP_COIN,let's settle it with a coin flip
+FLIP_COIN,please flip a coin i hope its tails
+FLIP_COIN,i need you to flip a coin once
+FLIP_COIN,flip that coin please
+FLIP_COIN,flip the coin
+FLIP_COIN,"flip that coin please, i choose heads"
+FLIP_COIN,flip that coin now
+FLIP_COIN,"i choose heads, now flip that coin"
+FLIP_COIN,"go ahead and flip that coin, i am choosing heads here"
+FLIP_COIN,flip it please
+FLIP_COIN,"i am choosing heads, now please flip that coin"
+FLIP_COIN,go ahead and flip a coin
+FLIP_COIN,"go ahead and flip that coin, i choose heads"
+FLIP_COIN,can you flip a coin and tell me the result
+FLIP_COIN,i will determine it with a coin flip
+FLIP_COIN,i want you to flip a coin
+FLIP_COIN,flip a coin and tell me if its heads or tails
+FLIP_COIN,flip a coin if you will
+FLIP_COIN,can you do a coin flip for me
+FLIP_COIN,i need to have a coin flipped
+FLIP_COIN,i would like a coin flip
+FLIP_COIN,i ned you to flip a coin
+FLIP_COIN,i want a coin flipped
+FLIP_COIN,flip a coin for me
+FLIP_COIN,i want a coin flip
+FLIP_COIN,i require a coin flip
+FLIP_COIN,lets go with heads or tails
+FLIP_COIN,lets flip for it
+FLIP_COIN,toss a coin i will take heads
+FLIP_COIN,"lets do a coin toss, i call tails"
+FLIP_COIN,"filp a coin, i call heads"
+FLIP_COIN,spin a coin
+FLIP_COIN,lets do a coin toss
+FLIP_COIN,toss a coin i will take tails
+FLIP_COIN,do a coin flip
+FLIP_COIN,do heads or tails
+FLIP_COIN,coin flip
+FLIP_COIN,heads or tails please
+FLIP_COIN,"ai, heads or tails"
+FLIP_COIN,"ai, coin flip"
+FLIP_COIN,"ai, please flip a coin"
+FLIP_COIN,"ai, give me the results of a coin flip"
+FLIP_COIN,flip a coin for me ai
+FLIP_COIN,"flip a coin, you win with heads"
+FLIP_COIN,"can you flip a coin, i will take tails"
+FLIP_COIN,"go ahead and flip a coin, i am calling tails"
+FLIP_COIN,"please flip a coin for me, tails i win"
+FLIP_COIN,"flip a coin, i have tails"
+FLIP_COIN,heads or tails
+FLIP_COIN,perform a coin flip
+FLIP_COIN,do a coin toss
+FLIP_COIN,help me flip a coin
+GREETING,how's everything
+GREETING,how are things going
+GREETING,"hello, anyone there"
+GREETING,are you okay right now
+GREETING,are you doing okay
+GREETING,how's it going right now
+GREETING,ahoy hoy
+GREETING,hey there!
+GREETING,how is everything with you
+GREETING,hey hey!
+GREETING,how have you been doing
+GREETING,it's nice to see you
+GREETING,hello there!
+GREETING,how is it going
+GREETING,how are things with you
+GREETING,hiya!
+GREETING,what's up
+GREETING,how're you doing
+GREETING,it's good to see you
+GREETING,is everything going okay
+GREETING,how is everything going
+GREETING,how goes it
+GREETING,"hello, ai"
+GREETING,"hey, ai"
+GREETING,"wake up, ai"
+GREETING,good day
+GREETING,greetings to you
+GREETING,"hello, friend"
+GREETING,whats up with you
+GREETING,hey there fellow
+GREETING,whats up
+GREETING,"yo, hows it going"
+GREETING,how are things for you
+GREETING,are things going well for you
+GREETING,hello siri
+GREETING,hi there alexa
+GREETING,"how are you doing, ai"
+GREETING,ai how are you doing today
+GREETING,"how are you doing today, ai"
+GREETING,how is my ai doing
+GREETING,ai how are you doing on this fine day
+GREETING,heller
+GREETING,so how is everything
+GREETING,how are you this day
+GREETING,hi how are you
+GREETING,how is everything going for you
+GREETING,hi how is everything
+GREETING,well hello
+GREETING,just wanted to say hi
+GREETING,how is your day
+GREETING,why hello
+GREETING,are you well
+GREETING,hola
+GREETING,good to see you
+GREETING,how've you been feeling
+GREETING,how are things
+GREETING,are you doing well
+GREETING,good evening
+GREETING,yo
+GREETING,"ai, how are you feeling"
+GREETING,how is the ai doing
+GREETING,"ai, how are you doing"
+GREETING,hi ai
+GREETING,have you been good
+GREETING,is everything ok with you
+GREETING,how have you been
+GREETING,are you doing ok
+GREETING,how are you
+GREETING,how's life
+GREETING,what's up with you
+GREETING,what's going on
+GREETING,how's it going with you
+GREETING,how's ife treating you
+GREETING,hello how's it going
+GREETING,how are you today
+GREETING,can you tell me how you're doing today
+GREETING,how are you this fine day
+GREETING,how are things treating you
+GREETING,aloha
+GREETING,are you feeling okay
+GREETING,how do you feel
+GREETING,bonjour
+GREETING,how are things going for you
+GREETING,what do you feel like doing
+GREETING,"hello, what's up"
+GREETING,hey how's life
+GREETING,hi there
+GREETING,hey how's it hanging
+GREETING,tell me how you've been
+GREETING,how is life treating you
+GREETING,"hi there, how are things"
+GREETING,"hello, how are you"
+GREETING,"hey, how's it going"
+GREETING,"hello, are you doing alright"
+GREETING,hi! are you doing okay
+GREETING,what's happening
+GREETING,hey what's up
+GREETING,"why, hello bandit"
+GREETING,"howdy, what's new"
+GREETING,salutations!
+MAKE_CALL,place a phone call to yiming
+MAKE_CALL,phone lobby
+MAKE_CALL,can you call dominos pizza
+MAKE_CALL,can you redial the last number dialed
+MAKE_CALL,call 911
+MAKE_CALL,can you call a taxi
+MAKE_CALL,can you call mom
+MAKE_CALL,call work
+MAKE_CALL,call justin
+MAKE_CALL,call home
+MAKE_CALL,call erryn
+MAKE_CALL,i have to call the commander
+MAKE_CALL,i will be calling hr
+MAKE_CALL,it is important that i call katie
+MAKE_CALL,x is who i need to call
+MAKE_CALL,i am going to call the landlord
+MAKE_CALL,call macy
+MAKE_CALL,dial lisa's cell phone number
+MAKE_CALL,please dial david now
+MAKE_CALL,i need you to call michael at home
+MAKE_CALL,can you call mary
+MAKE_CALL,please phone lizzy
+MAKE_CALL,please dial x's phone number
+MAKE_CALL,dial x's phone please
+MAKE_CALL,please call toby
+MAKE_CALL,call dave
+MAKE_CALL,call my best friend
+MAKE_CALL,can you make a phone call to mark
+MAKE_CALL,can you call my mom
+MAKE_CALL,call mark
+MAKE_CALL,call friend
+MAKE_CALL,can i call a restaurant
+MAKE_CALL,can you make a phone call to kevin
+MAKE_CALL,call bob for me
+MAKE_CALL,call my mother
+MAKE_CALL,call jim
+MAKE_CALL,can you make a phone call to roger
+MAKE_CALL,can you make a phone call to dave
+MAKE_CALL,call mymother
+MAKE_CALL,can you make a phone call to randy
+MAKE_CALL,bella needs to be called
+MAKE_CALL,give liz a call
+MAKE_CALL,would you give jenny a call
+MAKE_CALL,i want you to call bella
+MAKE_CALL,phone call secretary
+MAKE_CALL,get a hold of sue
+MAKE_CALL,i'm looking to call a group
+MAKE_CALL,call tom
+MAKE_CALL,dial x's number
+MAKE_CALL,dial christie's cell
+MAKE_CALL,call christie's work number
+MAKE_CALL,phone christie
+MAKE_CALL,call christie
+MAKE_CALL,please dial christie's number
+MAKE_CALL,can you call someone
+MAKE_CALL,call someone for me
+MAKE_CALL,dial someone's phone number
+MAKE_CALL,i need to talk to someone on the phone
+MAKE_CALL,call someone
+MAKE_CALL,it's time for me to call drew
+MAKE_CALL,it's necessary to call michael
+MAKE_CALL,i must call jordan
+MAKE_CALL,x is waiting for me to call
+MAKE_CALL,put me on a call to sally
+MAKE_CALL,place a call to bill now
+MAKE_CALL,i want to place a call to mike
+MAKE_CALL,i have to call jane
+MAKE_CALL,can you call russell
+MAKE_CALL,place call to robby
+MAKE_CALL,dial sarah
+MAKE_CALL,call robby
+MAKE_CALL,phone sarah
+MAKE_CALL,call sarah
+MAKE_CALL,call robby for me
+MAKE_CALL,i want to call robby
+MAKE_CALL,can you call robby
+MAKE_CALL,phonecall sarah
+MAKE_CALL,i want to talk to sarah
+MAKE_CALL,dial steven
+MAKE_CALL,phone steven
+MAKE_CALL,ring steven
+MAKE_CALL,call steven
+MAKE_CALL,i want to make a call to uncle
+MAKE_CALL,use my phone to dial work
+MAKE_CALL,start a phone call with kathy
+MAKE_CALL,initiate a phone call with receptionist
+MAKE_CALL,can a phone call be made to maria
+MAKE_CALL,i need you to call the broker
+MAKE_CALL,please do me a favor and call brother mario
+MAKE_CALL,can you please call nata
+MAKE_CALL,call sandra right now
+MAKE_CALL,immediately call tom
+MAKE_CALL,i must call dr smith
+MAKE_CALL,connect me to bob
+MAKE_CALL,place a call to father callahan
+MAKE_CALL,i should call ruthie
+MAKE_CALL,please call christy
+MAKE_CALL,i must call roderick
+MAKE_CALL,please make a phone call to christopher
+MAKE_CALL,i need to call mark
+MEANING_OF_LIFE,does life have meaning
+MEANING_OF_LIFE,is being alive the meaning of life
+MEANING_OF_LIFE,what is the real meaning of life
+MEANING_OF_LIFE,what is the answer to the meaning of life
+MEANING_OF_LIFE,is there really an answer to the meaning of life
+MEANING_OF_LIFE,does life have a meaning
+MEANING_OF_LIFE,who can tell me if there's any meaning to life
+MEANING_OF_LIFE,what makes life have any meaning
+MEANING_OF_LIFE,why do you think we're here
+MEANING_OF_LIFE,what's the answer to existence
+MEANING_OF_LIFE,what's the point of sentience
+MEANING_OF_LIFE,what's the purpose of existence
+MEANING_OF_LIFE,what's the purpose of life
+MEANING_OF_LIFE,what's the point of this dumpster fire known as life
+MEANING_OF_LIFE,what is life's meaning
+MEANING_OF_LIFE,is there a greater purpose in life
+MEANING_OF_LIFE,what is our purpose in life
+MEANING_OF_LIFE,how is life in existence
+MEANING_OF_LIFE,what's lifes meaning
+MEANING_OF_LIFE,what exactly is the meaning of life
+MEANING_OF_LIFE,whats lifes meaning exactly
+MEANING_OF_LIFE,what's the meaning of this life
+MEANING_OF_LIFE,what is the meaning of life here
+MEANING_OF_LIFE,does my life have meaning
+MEANING_OF_LIFE,i wish to know the meaning of life
+MEANING_OF_LIFE,i wanna know the meaning of life
+MEANING_OF_LIFE,i wanna know the point of life
+MEANING_OF_LIFE,i need to know the point of life
+MEANING_OF_LIFE,i must know the point of life
+MEANING_OF_LIFE,tell the meaning of life
+MEANING_OF_LIFE,i gotta know the meaning of life
+MEANING_OF_LIFE,what is your take on the meaning of life
+MEANING_OF_LIFE,tell me what is the purpose of life
+MEANING_OF_LIFE,what meaning does life hold
+MEANING_OF_LIFE,what do you think is the meaning of like
+MEANING_OF_LIFE,how do i find the meaning of life
+MEANING_OF_LIFE,what is the purpose of exsistance
+MEANING_OF_LIFE,what is your version on the meaning of life
+MEANING_OF_LIFE,what is your explanation for the meaning of life
+MEANING_OF_LIFE,what is the purpose of creation
+MEANING_OF_LIFE,can you figure out the meaning of life
+MEANING_OF_LIFE,whats your take on the meaning of life
+MEANING_OF_LIFE,can you explain the meaning of life to me
+MEANING_OF_LIFE,what is life all about
+MEANING_OF_LIFE,can you explain the meaning of life
+MEANING_OF_LIFE,"what's the point of life, anyways"
+MEANING_OF_LIFE,the meaning of life please
+MEANING_OF_LIFE,the meaning of life
+MEANING_OF_LIFE,i'd like to me told the meaning of life
+MEANING_OF_LIFE,do you know the meaning of life
+MEANING_OF_LIFE,say what the meaning of life is
+MEANING_OF_LIFE,can you tell me life's meaning
+MEANING_OF_LIFE,what's the meaning of my life
+MEANING_OF_LIFE,what is the underlying purpose to life
+MEANING_OF_LIFE,what do you think about the meaning of life
+MEANING_OF_LIFE,what is life’s meaning
+MEANING_OF_LIFE,help me figure out the meaning of life
+MEANING_OF_LIFE,"would you tell me the meaning of life, please"
+MEANING_OF_LIFE,"could you tell me the meaning of life, please"
+MEANING_OF_LIFE,can you tell me the meaning of life
+MEANING_OF_LIFE,could you tell me the meaning of life
+MEANING_OF_LIFE,"can you tell me the meaning of life, please"
+MEANING_OF_LIFE,what does life mean to you
+MEANING_OF_LIFE,is there really a meaning of life
+MEANING_OF_LIFE,is there any meaning to being alive
+MEANING_OF_LIFE,what is the meaning of my life
+MEANING_OF_LIFE,what is the point of life
+MEANING_OF_LIFE,what's the point of everything
+MEANING_OF_LIFE,is there a meaning to life
+MEANING_OF_LIFE,why are we here in life
+MEANING_OF_LIFE,can you share the meaning of life
+MEANING_OF_LIFE,research the meaning of life
+MEANING_OF_LIFE,can you tell me what you think the meaning of life is
+MEANING_OF_LIFE,what is our purpose here on earth
+MEANING_OF_LIFE,is love the meaning of life
+MEANING_OF_LIFE,is there a reason people exist
+MEANING_OF_LIFE,what is the secret or meaning to life
+MEANING_OF_LIFE,what does life mean on a deeper level
+MEANING_OF_LIFE,how would you put what life is all about
+MEANING_OF_LIFE,how would you describe what life means
+MEANING_OF_LIFE,what do people say life means or the meaning is
+MEANING_OF_LIFE,life has what meaning or what's the secret to it
+MEANING_OF_LIFE,where is there meaning in life
+MEANING_OF_LIFE,what is the meaning of this life
+MEANING_OF_LIFE,do you know what the meaning of life is
+MEANING_OF_LIFE,what's life's meaning
+MEANING_OF_LIFE,"does life have a meaning, according to you"
+MEANING_OF_LIFE,does this life have a meaning
+MEANING_OF_LIFE,can you share with me your interpretation of the meaning of life
+MEANING_OF_LIFE,what do you think is the meaning of life
+MEANING_OF_LIFE,is there a meaning in life
+MEANING_OF_LIFE,i wonder if you can explain the meaning of life
+MEANING_OF_LIFE,"i always wonder about the meaning of life, can you tell me"
+MEANING_OF_LIFE,what's my meaning in life
+MEANING_OF_LIFE,define the meaning of life
+MEANING_OF_LIFE,meaning of life is
+MEANING_OF_LIFE,what is your perception of the meaning of life
+MEANING_OF_LIFE,whats the meaning of life
+MEANING_OF_LIFE,what do you think the meaning of life is
+MEANING_OF_LIFE,what is behind life's meaning
+REPEAT,i didn't hear you please repeat
+REPEAT,please repeat
+REPEAT,i want you to repeat that
+REPEAT,one more time please
+REPEAT,i need you to repeat that
+REPEAT,i need you to please repeat that
+REPEAT,one more time for me please
+REPEAT,i would like that repeated
+REPEAT,just another time please
+REPEAT,say it again please
+REPEAT,i must have you repeat that
+REPEAT,say it again
+REPEAT,i need that repeated
+REPEAT,just one more time
+REPEAT,i want to have that repeated for me
+REPEAT,i want that repeated
+REPEAT,ai what was the question
+REPEAT,ai i didn't hear you
+REPEAT,ai please repeat
+REPEAT,ai could you say that again
+REPEAT,excuse me
+REPEAT,i did not hear you
+REPEAT,"i didn't get that, please repeat"
+REPEAT,please repeat yourself
+REPEAT,"i didn't catch that, please repeat"
+REPEAT,can you say that over
+REPEAT,restate the last thing you told me
+REPEAT,repeat what you just said
+REPEAT,i didn't catch that say it again
+REPEAT,what was that last thing you said
+REPEAT,repeat what you just told me
+REPEAT,please say that one more time
+REPEAT,hold on what was that you just said
+REPEAT,repeat that last response
+REPEAT,"i need you to repeat that, please"
+REPEAT,"i did not quite hear you, can you say it again"
+REPEAT,can you please repeat that response
+REPEAT,"i did not hear you, please repeat"
+REPEAT,say it one more time please
+REPEAT,"i didn't hear, please say it again"
+REPEAT,im sorry can you repeat yourself
+REPEAT,"i missed what you said, can you say it again"
+REPEAT,"i couldn't hear you, can you repeat it"
+REPEAT,i didn't hear say it again please
+REPEAT,can you repeat yourself
+REPEAT,i would like you to repeat yourself
+REPEAT,"i missed that last one, please repeat"
+REPEAT,what was that
+REPEAT,i didn't hear you can you repeat that
+REPEAT,please repeat that phrase
+REPEAT,"i missed what you said, please say it again"
+REPEAT,can you tell me what you just said
+REPEAT,"will you repeat that, please"
+REPEAT,"could you repeat that, please"
+REPEAT,"would you repeat that, please"
+REPEAT,would you repeat that
+REPEAT,would you please ask the question again
+REPEAT,i am needing for you to say that again
+REPEAT,i need for you to ask the question again
+REPEAT,could you ask the question again
+REPEAT,i am going to need you to say that again
+REPEAT,"would you say that again, please"
+REPEAT,repeat the question
+REPEAT,i didn't hear what you said
+REPEAT,repeat that please
+REPEAT,i didn't hear you
+REPEAT,"i didnt hear what you just said, can you say it again"
+REPEAT,may you repeat what you said again
+REPEAT,"i didn't hear what you just said, can you repeat it"
+REPEAT,"i didn't understand what you just said, can you repeat it"
+REPEAT,"i didnt understand what you just said, can you say it again"
+REPEAT,can you say what you just said again
+REPEAT,could you repeat what you just said again
+REPEAT,would you repeat what you just said
+REPEAT,will you please repeat what you said
+REPEAT,what did you just mention
+REPEAT,i need that said again
+REPEAT,i need to know again
+REPEAT,please say it again
+REPEAT,tell me once more
+REPEAT,repeat that again
+REPEAT,replay what you just said
+REPEAT,"i missed that, say it again"
+REPEAT,could you say that again
+REPEAT,repeat your last message
+REPEAT,say it one more time
+REPEAT,i did not understand say it again
+REPEAT,can you please sat it one more time
+REPEAT,"i did not catch that, repeat what you just said"
+REPEAT,"sorry, i didn't hear you, can you say that gain"
+REPEAT,"i didn't hear you, can you repeat that louder"
+REPEAT,i didn't catch that so please repeat it
+REPEAT,please run that by me again
+REPEAT,i missed that say it again
+REPEAT,can you say again
+REPEAT,please repeat what you just said
+REPEAT,can i get you to say that once more
+REPEAT,will you repeat what you just said
+REPEAT,please repeat over what you said
+REPEAT,come again with that
+ROLL_DICE,will you roll a d20
+ROLL_DICE,will you roll a 12 sided dice
+ROLL_DICE,will you roll a 10 sided dice
+ROLL_DICE,i'd like you to roll dice
+ROLL_DICE,i'd like a 7 sided dice roll please
+ROLL_DICE,i need to roll a 10 sided die
+ROLL_DICE,please roll a 7 sided die
+ROLL_DICE,let's roll some dice
+ROLL_DICE,i want to roll some dice
+ROLL_DICE,"can you roll a fair, 6 sided die"
+ROLL_DICE,i'd like to roll a dice and get the result
+ROLL_DICE,can you roll a dice
+ROLL_DICE,i want to roll a dice
+ROLL_DICE,help me roll a dice
+ROLL_DICE,roll a dice for me
+ROLL_DICE,go ahead and roll those dice
+ROLL_DICE,i need you to roll an 8 sided dice
+ROLL_DICE,i want you to roll dice
+ROLL_DICE,go ahead and roll that 9 sided dice
+ROLL_DICE,roll a 7 sided dice
+ROLL_DICE,roll the 10 sided dice on time
+ROLL_DICE,roll a pair of dice
+ROLL_DICE,please do a dice roll
+ROLL_DICE,please roll a 6 sided dice
+ROLL_DICE,roll a 6 sided die
+ROLL_DICE,roll a die
+ROLL_DICE,roll die
+ROLL_DICE,please roll a die now
+ROLL_DICE,roll this dice
+ROLL_DICE,i need a 10 sided die rolled
+ROLL_DICE,i would like a 10 sided die rolled
+ROLL_DICE,would you roll the dice
+ROLL_DICE,role a 10 sided die for me
+ROLL_DICE,could you role a ten sided die
+ROLL_DICE,can you roll a 10 sided die
+ROLL_DICE,the dice need to be rolled
+ROLL_DICE,i would like the dice to be rolled
+ROLL_DICE,toss a die would you
+ROLL_DICE,play vegas baby roll a dice for mama
+ROLL_DICE,find a virtual dice and roll it for me please
+ROLL_DICE,roll a dice and give me a number from 1 to 6
+ROLL_DICE,roll dice now
+ROLL_DICE,roll dice
+ROLL_DICE,roll the dice
+ROLL_DICE,roll dice please
+ROLL_DICE,go ahead and roll the dice
+ROLL_DICE,please roll dice
+ROLL_DICE,will you roll a 6 sided dice
+ROLL_DICE,will you roll a 3 sided dice
+ROLL_DICE,will you roll a 5 sided dice
+ROLL_DICE,will you roll a 2 sided dice
+ROLL_DICE,will you roll a 4 sided dice
+ROLL_DICE,please roll the dice
+ROLL_DICE,roll a dice
+ROLL_DICE,give me a random number between 1 and 6
+ROLL_DICE,i want you to roll a dice
+ROLL_DICE,"ai, please roll the dice"
+ROLL_DICE,"roll that dice, ai"
+ROLL_DICE,"ai, would you kindly roll the dice"
+ROLL_DICE,"ai, go ahead and roll the dice"
+ROLL_DICE,"please roll the dice, ai"
+ROLL_DICE,could you roll a 6 sided dice
+ROLL_DICE,can you roll a 6 sided dice
+ROLL_DICE,i'd like you to roll a 6 sided dice
+ROLL_DICE,roll a 6 sided dice for me
+ROLL_DICE,could you roll the 8 sided dice
+ROLL_DICE,can you roll the 12 sided dice please
+ROLL_DICE,go ahead and roll the 6 sided dice for me
+ROLL_DICE,please roll the 10 sided dice
+ROLL_DICE,please roll the 5 sided dice
+ROLL_DICE,give the dice a roll
+ROLL_DICE,roll the dice for me
+ROLL_DICE,can you roll the dice
+ROLL_DICE,could you roll the dice please
+ROLL_DICE,i need you to roll dice now
+ROLL_DICE,provide a random roll of the dice
+ROLL_DICE,can you roll dice
+ROLL_DICE,throw the dice
+ROLL_DICE,roll the dice!
+ROLL_DICE,roll the die!
+ROLL_DICE,shoot the dice!
+ROLL_DICE,throw the dice!
+ROLL_DICE,roll them bones!
+ROLL_DICE,6 sided dice roll
+ROLL_DICE,roll 6 sided die
+ROLL_DICE,"roll die, 6 sided"
+ROLL_DICE,roll a die with 6 sides please
+ROLL_DICE,roll a die with 6 sides
+ROLL_DICE,what do you get if you roll a six sided dice
+ROLL_DICE,tell me the result of a dice roll with five sides
+ROLL_DICE,what do you get when you roll a dice with five sides
+ROLL_DICE,i'd like to know how much you get when you roll a ten sided dice
+ROLL_DICE,when you roll a six sided dice what is the results
+ROLL_DICE,roll an eight sided die
+ROLL_DICE,roll a pair of eight sided dice
+ROLL_DICE,i need an algorithm to give me the result of rolling one twelve sided die
+ROLL_DICE,what number do you get when you roll one six sided die
+ROLL_DICE,roll a pair of six sided dice
+ROLL_DICE,can you roll a 4 sided dice
+ROLL_DICE,roll a seven sided dice for me
+TIMER,please set a 4 minute timer
+TIMER,please set a timer for 6 minutes
+TIMER,set a timer for 5 minutes
+TIMER,i need a 7 minute timer
+TIMER,i need to set the timer for two minutes
+TIMER,can you set a timer for me for fifteen minutes starting now
+TIMER,start the timer now and stop at thirty minutes
+TIMER,i would like you to set the timer to go off in ten minutes
+TIMER,please set a timer for 40 minutes
+TIMER,wake me in an hour
+TIMER,please set a timer for cookies
+TIMER,i want a timer set
+TIMER,remind me in (x) hours
+TIMER,set timer for (x) minutes
+TIMER,i gotta have a 10 minute timer
+TIMER,please set a timer for me
+TIMER,i need a 10 minute timer
+TIMER,i wish to have a 10 minute timer
+TIMER,i really need to set a timer
+TIMER,set a new timer for ten seconds
+TIMER,set a timer for me
+TIMER,i want a 10 minute timer
+TIMER,i gotta set a timer
+TIMER,set a 10 minute timer
+TIMER,set a brand new timer for eight seconds
+TIMER,set a ten second timer
+TIMER,i must set a timer
+TIMER,set a timer for twelve seconds
+TIMER,set a timer for fifteen seconds
+TIMER,tell me when two minutes are up
+TIMER,start a timer for two minutes
+TIMER,set a timer for two minutes
+TIMER,start counting down from two minutes
+TIMER,can you set a timer for two minutes
+TIMER,"""please set 5 minute timer"
+TIMER,can u please set the timer for 5 minutes
+TIMER,set timer of 5 minutes
+TIMER,"""can u set a timer for 5 minutes"
+TIMER,set a one hour timer
+TIMER,please set a timer for 20 minutes
+TIMER,set a five minute timer please
+TIMER,set a timer for two hours
+TIMER,can you set a two hour timer
+TIMER,set the timer for me please
+TIMER,you need to set the timer for me
+TIMER,i need you to set timer for me
+TIMER,please set the timer for me
+TIMER,i would like a timer set
+TIMER,can you set a timer
+TIMER,i need you to set a time
+TIMER,i need a timer set for 15 minutes
+TIMER,start a countdown for 20 minutes
+TIMER,set a timer for 15 minutes
+TIMER,i'll need you to set a timer for 10 minutes
+TIMER,let's get a timer set for 5 minutes
+TIMER,set a timer for 35 minutes
+TIMER,please start counting down from 10 minutes
+TIMER,let's get a timer going for 10 minutes
+TIMER,i need a timer for 20 seconds
+TIMER,timer 5 minutes
+TIMER,alert me in 20 minutes
+TIMER,give me a 10 minute countdown
+TIMER,let me know in 15 minutes please
+TIMER,"i'm cooking an egg, timer for 3 mins"
+TIMER,10 minute timer
+TIMER,start a timer for 10 minutes
+TIMER,timer 10 minutes
+TIMER,count down 10 minutes
+TIMER,make up a timer for me
+TIMER,create a timer for me
+TIMER,can you set a timer for me
+TIMER,i need to set a timer
+TIMER,set up a timer
+TIMER,could you start a timer for me
+TIMER,lets set a timer for me
+TIMER,please run a timer for me
+TIMER,set a one minute timer
+TIMER,set a five minute timer
+TIMER,set a seven minute timer
+TIMER,start a timer for me
+TIMER,set a four minute timer
+TIMER,set a six minute timer
+TIMER,how do i set a timer
+TIMER,i want a timer for 5 minutes
+TIMER,timer for 5 minutes
+TIMER,set a timer to go off in 5 minutes
+TIMER,set timer for 5 minutes
+TIMER,i want to set a timer
+TIMER,make a timer for 5 minutes
+TIMER,please set a timer for
+TIMER,remind me that time is up in sixty minutes
+TIMER,set an alarm for nine minutes from now
+TIMER,tell me when ninety minutes have passed
+TIMER,please set timer for 4 pm
+TIMER,want 5 minute timer
+TIMER,set 30 minute timer
+TIMER,get a 3 minute timer
+TIMER,"please, can you set the timer for me"
+TIMER,can you please the timer
+TIMER,will you set the timer
+TRANSLATE,what expression would i use to say i love you if i were an italian
+TRANSLATE,"can you tell me how to say 'i do not speak much spanish', in spanish"
+TRANSLATE,"what is the equivalent of, 'life is good' in french"
+TRANSLATE,"tell me how to say, 'it is a beautiful morning' in italian"
+TRANSLATE,"if i were mongolian, how would i say that i am a tourist"
+TRANSLATE,how do i say 'hotel' in finnish
+TRANSLATE,"i need you to translate the sentence, 'we will be there soon' into portuguese"
+TRANSLATE,please tell me how to ask for a taxi in french
+TRANSLATE,"can you tell me how i would say, 'more bread please' in french"
+TRANSLATE,what is the correct way to say 'i am a visitor' in french
+TRANSLATE,"how would i say, 'i don't know the answer' in spanish"
+TRANSLATE,i would like to know the proper way to greet an adult in portuguese
+TRANSLATE,what words would i use to tell someone i am lost if i were japanese
+TRANSLATE,how would i say thank you if i were russian
+TRANSLATE,can you tell me how i would normally say thank you as a french person
+TRANSLATE,i would like to know how to say hello in french
+TRANSLATE,if i were english how would i say subway
+TRANSLATE,i would i say subway if i were english
+TRANSLATE,how do you say hi in french
+TRANSLATE,in england how do they say subway
+TRANSLATE,translate hello in french
+TRANSLATE,how is hello said in french
+TRANSLATE,what do you call a subway if you were english
+TRANSLATE,how would i say if i were english subway
+TRANSLATE,how should i say hello in french
+TRANSLATE,how could i say twin in chinese
+TRANSLATE,how can i say not now in spanish
+TRANSLATE,what do spanish people say for the word cow
+TRANSLATE,translate hello to english
+TRANSLATE,how do you say goodbye in spanish
+TRANSLATE,how would i say love in french
+TRANSLATE,could you translate atm machine into english
+TRANSLATE,please translate grocery into french for me
+TRANSLATE,how do germans say goodnight
+TRANSLATE,tell me how the russians say notebook
+TRANSLATE,how do vietnameses people say hello
+TRANSLATE,how do i say thank you in japanese
+TRANSLATE,what is latin for i love you
+TRANSLATE,how can i thank somebody in italian
+TRANSLATE,how do i say you're welcome in chinese
+TRANSLATE,translate hello english to french
+TRANSLATE,what is hello in french
+TRANSLATE,what phrase means goodbye in hawaii
+TRANSLATE,what spanish word means hello
+TRANSLATE,translate hello to french
+TRANSLATE,translate english to french hello
+TRANSLATE,what is the word for hello spanish
+TRANSLATE,how do they say goodbye in hawaii
+TRANSLATE,what's local slang for goodbye in hawaii
+TRANSLATE,how do you say hello in french
+TRANSLATE,tell me how to say hello in spanish
+TRANSLATE,what do i say for goodbye in hawaii
+TRANSLATE,translate hello into french for me
+TRANSLATE,how do i say hello in french
+TRANSLATE,translate for me hello into french
+TRANSLATE,how would they say say goodbye in hawaii
+TRANSLATE,what is spanish for hello
+TRANSLATE,how would i say hello in french
+TRANSLATE,how can i say i love you in italy
+TRANSLATE,what is spanish for good morning
+TRANSLATE,how do you say it's snowing in german
+TRANSLATE,how would you say can i borrow five dollars in portuguese
+TRANSLATE,do you know how to say where is the restroom in french
+TRANSLATE,how would i say pleased to meet you if i were japanese
+TRANSLATE,can you translate hello into swedish for me
+TRANSLATE,can you translate i love you into french for me
+TRANSLATE,can you translate where's the bar into irish for me
+TRANSLATE,how would i say goodbye if i were norwegian
+TRANSLATE,how would i say i love you if i were french
+TRANSLATE,how would i say hello if i were swedish
+TRANSLATE,can you translate good bye into russian for me
+TRANSLATE,can you translate i have to go pee into korean for me
+TRANSLATE,how would i say i'm not guilty if i were mexican
+TRANSLATE,how do you say thank you in spanish
+TRANSLATE,how does one say thank you in spanish
+TRANSLATE,how can i say thank you in spanish
+TRANSLATE,what is thank you in spanish
+TRANSLATE,what is the way to say thank you in spanish
+TRANSLATE,"how do they say ""who is your father"" in german"
+TRANSLATE,"how do they say ""where's the bathroom"" in spanish"
+TRANSLATE,"how do they say ""how's it going"" in swahili"
+TRANSLATE,"how do they say ""i love you"" in japanese"
+TRANSLATE,"how do they say ""what's up"" in chinese"
+TRANSLATE,how do you say thank you in german
+TRANSLATE,how do you say please in arabic
+TRANSLATE,how do you say cat in spanish
+TRANSLATE,how do you say i'm hungry in french
+TRANSLATE,how do you say i need coffee in dutch
+TRANSLATE,how do they say yes in brazil
+TRANSLATE,can you translate cat into russian for me
+TRANSLATE,can you translate bowl into russian for me
+TRANSLATE,how do they say hello in france
+TRANSLATE,i wanna know a phrase in spanish
+TRANSLATE,can you translate bat into russian for me
+TRANSLATE,how do they say no in germany
+TRANSLATE,can you translate hi into spanish for me
+TRANSLATE,i wanna learn a phrase in russian
+TRANSLATE,how do they say hello in germany
+TRANSLATE,can you translate milk into spanish for me
+TRANSLATE,how do they say hello in brazil
+WEATHER,what are the conditions like in orlando
+WEATHER,what's the temperature like in tampa
+WEATHER,what's the forecast like for pittsburgh
+WEATHER,what are the conditions like in sarasota
+WEATHER,what's the climate like in chicago
+WEATHER,what will the temperature be tomorrow
+WEATHER,will it rain today
+WEATHER,will it freeze tonight
+WEATHER,give me the 7 day forecast
+WEATHER,is it hot outside
+WEATHER,what is the weather going to be like today
+WEATHER,is it going to rain today
+WEATHER,what is the weather going to be like tomorrow
+WEATHER,is it going to rain tonight
+WEATHER,are there any tornadoes coming soon
+WEATHER,is it snowing in the next two weeks
+WEATHER,what is the weather like in denver
+WEATHER,what is the weather like tomorrow
+WEATHER,what is the record high temperature for today
+WEATHER,whats the predicted weather suppose to be like
+WEATHER,whats the forecast for the weather
+WEATHER,what does the weather look like
+WEATHER,what does the forecast look like
+WEATHER,what is the weather going to be like
+WEATHER,tell me this week's forecast
+WEATHER,will it get over 90 degrees today
+WEATHER,what's the temperature outside
+WEATHER,tell me how the weather is
+WEATHER,weather
+WEATHER,what's the weather
+WEATHER,is it raining
+WEATHER,how is it outside
+WEATHER,how hot will it be tomorrow
+WEATHER,what is the weather for tomorrow in georgia
+WEATHER,what is the forecast for this week
+WEATHER,will it snow this weekend
+WEATHER,is there any rain in the next 3 days
+WEATHER,can you tell me what the weather will be please
+WEATHER,how's the weather
+WEATHER,what's the weather looking like
+WEATHER,what weather should i expect
+WEATHER,costa mesa current weather
+WEATHER,what is the temperature in costa mesa
+WEATHER,what is the weather report for costa mesa
+WEATHER,weather in costa mesa
+WEATHER,costa mesa weather
+WEATHER,i need meteorological data for tallahassee
+WEATHER,how's the weather in tallahassee
+WEATHER,read me the current weather report for tallahassee
+WEATHER,tell me the weather report for tallahassee
+WEATHER,what's the current weather situation for tallahassee
+WEATHER,what's the weekend forecast
+WEATHER,can you tell me the low tonight
+WEATHER,is it going to be sunny today
+WEATHER,what's the highest chance of rain for today
+WEATHER,how cold is it going to be tonight
+WEATHER,what is the weather forecast for seattle
+WEATHER,what is the weather outlook for seattle
+WEATHER,what are the weather conditions in seattle
+WEATHER,how is the weather in seattle
+WEATHER,what is the weather report for seattle
+WEATHER,can you give me info on miami weather
+WEATHER,what is miami weather like
+WEATHER,what can you tell me about miami weather
+WEATHER,what kind of weather does miami have
+WEATHER,how is the weather in miami
+WEATHER,what's the weather like right now
+WEATHER,give me a rundown of the weather
+WEATHER,what kind of weather is there
+WEATHER,tell me what the weather is like
+WEATHER,when is it going to rain again
+WEATHER,what is the high temperature for tomorrow
+WEATHER,how many of inches of snow did my hometown get last year
+WEATHER,what are the atmospheric conditions in sparks
+WEATHER,is it raining in sparks
+WEATHER,is it cloudy or sunny in sparks
+WEATHER,is sparks experiencing bad weather right now
+WEATHER,what is the weather like in sparks right now
+WEATHER,what is the temp right now
+WEATHER,when will it rain next
+WEATHER,when is the next rain chance
+WEATHER,what will the weather be this weekend
+WEATHER,what s the uv index tomorrow
+WEATHER,tell me today's weather forecast
+WEATHER,tell me about the weather today
+WEATHER,i want to know the weather forecast for today
+WEATHER,what will the weather be like
+WEATHER,what's the chance of rain on friday
+WEATHER,is there a uv or smog alert for tomorrow
+WEATHER,"is it snowing right now in richmond, va"
+WEATHER,what will the low temperatures be over the weekend
+WEATHER,can you let me know if it will be warm this week
+WEATHER,when is the next time it is suppose to rain
+WEATHER,how cold will it be tomorrow
+WEATHER,what is today's high temperature predicted to be
+WEATHER,how much snow will we be getting tomorrow
+WEATHER,what's the current weather
+WEATHER,what's it doing outside right now
+WEATHER,what's today's weather going to be
+WEATHER,please tell me the weather forecast
+WHAT_CAN_I_ASK_YOU,what things can you help me with exactly
+WHAT_CAN_I_ASK_YOU,what are the things you can help me with
+WHAT_CAN_I_ASK_YOU,what exactly can you help me with
+WHAT_CAN_I_ASK_YOU,what can you help me with exactly
+WHAT_CAN_I_ASK_YOU,what can you help me with
+WHAT_CAN_I_ASK_YOU,what kinds of questions can you answer
+WHAT_CAN_I_ASK_YOU,tell me the subject areas you are familiar with
+WHAT_CAN_I_ASK_YOU,what sorts of subjects are you well versed in
+WHAT_CAN_I_ASK_YOU,what are the subject areas you are knowledgable in
+WHAT_CAN_I_ASK_YOU,what kinds of things are you knowledgable about
+WHAT_CAN_I_ASK_YOU,tell me the types of things i can ask you about
+WHAT_CAN_I_ASK_YOU,what sorts of things can i ask you about
+WHAT_CAN_I_ASK_YOU,tell me what you are capable of answering
+WHAT_CAN_I_ASK_YOU,what sorts of queries should i give you
+WHAT_CAN_I_ASK_YOU,what sorts of subjects do you know about
+WHAT_CAN_I_ASK_YOU,what type of questions may i ask you
+WHAT_CAN_I_ASK_YOU,which types of questions may i ask you
+WHAT_CAN_I_ASK_YOU,what kind of questions may i ask you
+WHAT_CAN_I_ASK_YOU,which types of questions can i ask you
+WHAT_CAN_I_ASK_YOU,what kind of questions can i ask you
+WHAT_CAN_I_ASK_YOU,what topics can i ask you about
+WHAT_CAN_I_ASK_YOU,what information can i ask you
+WHAT_CAN_I_ASK_YOU,what subjects do you know something about
+WHAT_CAN_I_ASK_YOU,what kinds of questions can i ask you
+WHAT_CAN_I_ASK_YOU,what types of things do you know
+WHAT_CAN_I_ASK_YOU,what kind of questions do you accept
+WHAT_CAN_I_ASK_YOU,what questions are permissible
+WHAT_CAN_I_ASK_YOU,what can i ask you
+WHAT_CAN_I_ASK_YOU,what are my list of commands
+WHAT_CAN_I_ASK_YOU,what are the kinds of things you can help me with
+WHAT_CAN_I_ASK_YOU,what kind of questions are you good at answering
+WHAT_CAN_I_ASK_YOU,can i ask you about anything
+WHAT_CAN_I_ASK_YOU,can you help me with anything i need
+WHAT_CAN_I_ASK_YOU,what all can you do
+WHAT_CAN_I_ASK_YOU,what things do you know about
+WHAT_CAN_I_ASK_YOU,what are you able to help me with
+WHAT_CAN_I_ASK_YOU,what types of things are you able to do
+WHAT_CAN_I_ASK_YOU,what can you answer for me
+WHAT_CAN_I_ASK_YOU,is there anything i can't ask you
+WHAT_CAN_I_ASK_YOU,what questions do you respond to
+WHAT_CAN_I_ASK_YOU,what should i ask you about
+WHAT_CAN_I_ASK_YOU,what are you able to answer
+WHAT_CAN_I_ASK_YOU,what's the sort of thing i should ask
+WHAT_CAN_I_ASK_YOU,what kind of things can you answer
+WHAT_CAN_I_ASK_YOU,what things can you do
+WHAT_CAN_I_ASK_YOU,what can you do
+WHAT_CAN_I_ASK_YOU,what types of questions do you have a response for
+WHAT_CAN_I_ASK_YOU,what kinds of questions can you respond to
+WHAT_CAN_I_ASK_YOU,what do you have answers for
+WHAT_CAN_I_ASK_YOU,what questions am i allowed to ask
+WHAT_CAN_I_ASK_YOU,what kinds of things can you do
+WHAT_CAN_I_ASK_YOU,ai can you tell me what things i may ask
+WHAT_CAN_I_ASK_YOU,"what can i ask you, ai"
+WHAT_CAN_I_ASK_YOU,what am i able to ask the ai
+WHAT_CAN_I_ASK_YOU,"ai, tell me what things i should ask of you"
+WHAT_CAN_I_ASK_YOU,what sorts of things am i able to ask of you ai
+WHAT_CAN_I_ASK_YOU,how can i get you to help me
+WHAT_CAN_I_ASK_YOU,what types of things can i ask you
+WHAT_CAN_I_ASK_YOU,what sort of things can you help me with
+WHAT_CAN_I_ASK_YOU,what are you able to do
+WHAT_CAN_I_ASK_YOU,what can i use you to help me with
+WHAT_CAN_I_ASK_YOU,how can i use you
+WHAT_CAN_I_ASK_YOU,what subjects do you know
+WHAT_CAN_I_ASK_YOU,what subjects are you familiar with
+WHAT_CAN_I_ASK_YOU,what subjects do you know about
+WHAT_CAN_I_ASK_YOU,what types of subjects do you know
+WHAT_CAN_I_ASK_YOU,what are you familiar with
+WHAT_CAN_I_ASK_YOU,what do you know
+WHAT_CAN_I_ASK_YOU,what subjects are you versed in
+WHAT_CAN_I_ASK_YOU,can you tell me the subjects you know best
+WHAT_CAN_I_ASK_YOU,tell me the subjects you're aware of
+WHAT_CAN_I_ASK_YOU,let me know what subjects you comprehend well
+WHAT_CAN_I_ASK_YOU,what are the sorts of things i can ask you about
+WHAT_CAN_I_ASK_YOU,what questions are you programmed to answer
+WHAT_CAN_I_ASK_YOU,what kinds of things can i ask you
+WHAT_CAN_I_ASK_YOU,what kinds of questions can i ask of you
+WHAT_CAN_I_ASK_YOU,are there certain types of questions i can ask you
+WHAT_CAN_I_ASK_YOU,what kinds of things would you be able to help me with
+WHAT_CAN_I_ASK_YOU,i need to know what kind of things you can help with
+WHAT_CAN_I_ASK_YOU,i want to know what sort of things you can assist me with
+WHAT_CAN_I_ASK_YOU,what sort of things are you able to help with
+WHAT_CAN_I_ASK_YOU,let me know what you can assist me with
+WHAT_CAN_I_ASK_YOU,how can i benefit from using you
+WHAT_CAN_I_ASK_YOU,how can you assist me
+WHAT_CAN_I_ASK_YOU,i wanna know the types of subjects are you familiar with
+WHAT_CAN_I_ASK_YOU,i wish to know the types of subjects are you familiar with
+WHAT_CAN_I_ASK_YOU,please inform me of the types of subjects are you familiar with
+WHAT_CAN_I_ASK_YOU,what can you be asked about
+WHAT_CAN_I_ASK_YOU,tell me the types of subjects are you familiar with
+WHAT_CAN_I_ASK_YOU,i would like to know the types of subjects are you familiar with
+WHAT_CAN_I_ASK_YOU,what can i ask you all about
+WHAT_CAN_I_ASK_YOU,are you familiar with any types of subjects
+WHAT_CAN_I_ASK_YOU,what skills do you have
+WHAT_CAN_I_ASK_YOU,what are your capabilities
+WHAT_CAN_I_ASK_YOU,what topics are you versed in
+WHAT_CAN_I_ASK_YOU,what sort of stuff do you know
+WHAT_CAN_I_ASK_YOU,what subjects do you know well
+WHAT_CAN_I_ASK_YOU,what can i ask you to accomplish
+WHAT_CAN_I_ASK_YOU,what tasks can you complete for me
+WHAT_CAN_I_ASK_YOU,what type of questions are you partial to that i can ask you
+YES,yep
+YES,that is affirmative
+YES,what you just said is true
+YES,that is not false
+YES,that is a fact
+YES,i agree with the truth of what you just said
+YES,i believe what you just said is true
+YES,that would be great
+YES,that would be awesome
+YES,that is totally true
+YES,oh yes
+YES,yes that is right
+YES,that is a yes
+YES,that seems true
+YES,positive
+YES,true
+YES,very true
+YES,that will be true
+YES,that appears true
+YES,that is true
+YES,it is true
+YES,that is right
+YES,that statement was correct
+YES,i think that's true
+YES,that is accurate
+YES,"yes, that is it"
+YES,correct
+YES,the answer is yes
+YES,all right
+YES,it's indeed true
+YES,that's a yes from me
+YES,yes you are correct
+YES,that's a definite yes
+YES,yes that's it
+YES,i vote yes
+YES,that is correct
+YES,"yes, that is true"
+YES,"yep, that's right"
+YES,yeah that's what i want
+YES,you got it
+YES,"yeah that's right, so true"
+YES,true is my response
+YES,"yes, that's affirmative"
+YES,"yes, you got it"
+YES,absolutely!
+YES,do that
+YES,absolutely correct
+YES,confirm
+YES,"yes, i'd really like that alot"
+YES,"agreed, that's valid"
+YES,"affirmative, go ahead"
+YES,yes that's correct
+YES,"yeah, that's how it is"
+YES,"yeah, that's right"
+YES,of course
+YES,that's the truth
+YES,exactly right
+YES,"yes, that's accurate"
+YES,"yes, that is accurate"
+YES,"yes, that's what i want"
+YES,"yes, that is a fact"
+YES,"yes, that is correct"
+YES,"yes, that's confirmed"
+YES,indeed
+YES,yes
+YES,uh-huh
+YES,"correct, that's true"
+YES,"yes, that's correct"
+YES,yeah
+YES,yeap
+YES,ok
+YES,sure thing
+YES,yes you are right
+YES,yes you are
+YES,yes i do like that
+YES,yes that is correct
+YES,yes i am
+YES,i think it's true
+YES,that would be yes
+YES,that would be true
+YES,i believe that's true
+YES,uh huh
+YES,"yep, that's true"
+YES,"yes, that is actually true"
+YES,"yes, that's it"
+YES,"yes, that is right"
+YES,"correct, it is affirmative"
+YES,the answer to that is a resounding yes
+YES,i can confirm it is affirmative
+YES,my response to that is yes
+YES,i have to say affirmative on that one
+YES,i would have to say yes as my answer
+YES,the answer to that is affirmative
+YES,"that is true, yes"
+YES,it is definitely affirmative
+YES,is is very much true
+YES,it is a true
+YES,its a for sure true
+YES,yes sir
+YES,it's true
