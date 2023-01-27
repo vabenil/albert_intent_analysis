@@ -42,6 +42,12 @@ def mean_pooling(model_output, attention_mask):
     return torch.sum(token_embeddings * input_mask_expanded, 1) / torch.clamp(input_mask_expanded.sum(1), min=1e-9)
 
 class Net(nn.Module):
+    @staticmethod
+    def pretrained():
+        model = Net()
+        model.load_state_dict(torch.load("./MODEL"))
+        return model
+
     def __init__(self):
         super().__init__()
         self.tokenizer = tokenizer
@@ -74,7 +80,6 @@ class Net(nn.Module):
         x = self.dropout(x)
         x = F.softmax(self.l3(x), dim=1)
         return x
-
 
 def train(model, data_loader, conf=Config(), device='cpu'):
     if type(device) is str:
