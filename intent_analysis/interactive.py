@@ -3,8 +3,7 @@ import torch
 
 
 if __name__ == '__main__':
-    model = Net()
-    model.load_state_dict(torch.load("./MODEL"))
+    model = Net.pretrained()
 
     while True:
         user_input = input("You: ")
