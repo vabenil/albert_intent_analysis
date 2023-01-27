@@ -23,6 +23,6 @@ def format_file(path: str) -> dict[str, list[str]]:
     return formatted_data
 
 if __name__ == '__main__':
-    formatted_data = format_file('is_train.json')
-    with open('train_data.json', 'w') as f:
+    formatted_data = format_file('datasets/is_train.json')
+    with open('datasets/train_data.json', 'w') as f:
         json.dump(formatted_data, f, sort_keys=True, indent=4)

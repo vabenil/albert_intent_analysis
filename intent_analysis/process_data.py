@@ -19,7 +19,7 @@ def json_to_pandas(json_dict: dict[any]) -> pd.DataFrame:
 
 if __name__ == '__main__':
     json_data = None;
-    with open('test_data.json', 'r') as json_file:
+    with open('datasets/test_data.json', 'r') as json_file:
         json_data = json.load(json_file)
 
     df = json_to_pandas(json_data);

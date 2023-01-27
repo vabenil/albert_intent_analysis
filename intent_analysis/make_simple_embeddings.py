@@ -7,7 +7,7 @@ from model import Net
 
 if __name__ == '__main__':
     json_data = None;
-    with open('train_data.json', 'r') as json_file:
+    with open('datasets/train_data.json', 'r') as json_file:
         json_data = json.load(json_file)
 
     model = Net()
